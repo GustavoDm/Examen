@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Debug" />
+	<File name="ArrayList.c" open="1" top="0" tabpos="5">
+		<Cursor position="12693" topLine="464" />
+	</File>
+	<File name="ArrayList.h" open="1" top="0" tabpos="8">
+		<Cursor position="6816" topLine="192" />
+	</File>
+	<File name="Empleado.c" open="1" top="0" tabpos="2">
+		<Cursor position="1334" topLine="60" />
+	</File>
+	<File name="Empleado.h" open="1" top="0" tabpos="3">
+		<Cursor position="500" topLine="0" />
+	</File>
+	<File name="File.c" open="1" top="0" tabpos="4">
+		<Cursor position="127" topLine="0" />
+	</File>
+	<File name="File.h" open="1" top="0" tabpos="6">
+		<Cursor position="49" topLine="0" />
+	</File>
+	<File name="getsValids.c" open="1" top="0" tabpos="7">
+		<Cursor position="596" topLine="24" />
+	</File>
+	<File name="main.c" open="1" top="0" tabpos="1">
+		<Cursor position="1580" topLine="25" />
+	</File>
+</CodeBlocks_layout_file>

@@ -1,0 +1,40 @@
+# depslib dependency file v1.0
+1530224739 source:/home/alumno/GustavoDm/SEGUNDO_PARCIAL/Ejercicio2doParcial/Empleado.c
+	"Empleado.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1530225991 /home/alumno/GustavoDm/SEGUNDO_PARCIAL/Ejercicio2doParcial/Empleado.h
+
+1530225936 source:/home/alumno/GustavoDm/SEGUNDO_PARCIAL/Ejercicio2doParcial/ArrayList.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+
+1530225163 /home/alumno/GustavoDm/SEGUNDO_PARCIAL/Ejercicio2doParcial/ArrayList.h
+
+1530215552 source:/home/alumno/GustavoDm/SEGUNDO_PARCIAL/Ejercicio2doParcial/getsValids.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"getsValids.h"
+
+1530215552 /home/alumno/GustavoDm/SEGUNDO_PARCIAL/Ejercicio2doParcial/getsValids.h
+
+1530224570 source:/home/alumno/GustavoDm/SEGUNDO_PARCIAL/Ejercicio2doParcial/File.c
+	<stdio.h>
+	<stdlib.h>
+	"Empleado.h"
+	"ArrayList.h"
+
+1530224962 source:/home/alumno/GustavoDm/SEGUNDO_PARCIAL/Ejercicio2doParcial/main.c
+	<stdio.h>
+	<stdlib.h>
+	"Empleado.h"
+	"ArrayList.h"
+	"File.h"
+
+1530224998 /home/alumno/GustavoDm/SEGUNDO_PARCIAL/Ejercicio2doParcial/File.h
+
